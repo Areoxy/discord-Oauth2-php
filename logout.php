@@ -1,7 +1,5 @@
 <?php
 
-require __DIR__ . "/functions.php";
-
 # Starting the session
 session_start();
 
