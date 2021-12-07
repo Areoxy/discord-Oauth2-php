@@ -13,7 +13,7 @@ Discord oauth2 for php!
 
 ## How to get user data?
 
-Have a look into the script to get a overview how it work and wich variables you have to work with.
+Have a look into the script to get a overview how it works and wich variables you have to work with.
 
 ## Features
 
