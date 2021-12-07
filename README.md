@@ -20,8 +20,11 @@ Have a look into the script to get a overview how it work and wich variables you
 **Functions:**
 
 init($code)                    | Will get the acces token
+
 get_user($email_scope = True)  | Will get user data
+
 get_guilds()                   | Will get user's current guilds
+
 get_connections()              | Will get user's connections
 
 
