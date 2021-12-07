@@ -127,7 +127,7 @@ function join_guild($guild_id)
 
 
 # A function to check user's avatar type
-function is_animated($avatar)
+function check_avatar_type($avatar)
 {
 	$ext = substr($avatar, 0, 2);
 	if ($ext == "a_")
