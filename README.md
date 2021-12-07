@@ -5,5 +5,6 @@ Discord oauth2 for php!
 
 > 1. Download all files
 > 2. Open discordPHP.php and edit the variables 
-[Example:](https://i.imgur.com/Gio4pgW.png)
+
+![image](https://i.imgur.com/Gio4pgW.png)
 
