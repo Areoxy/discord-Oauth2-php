@@ -108,9 +108,6 @@ function get_connections()
 }
 
 # A function to add user to a guild
-# Note : The bot has to be a member of the server with CREATE_INSTANT_INVITE permission.
-#        The bot mussn't be online it must only be on your guild
-#   
 function join_guild($guild_id) 
 {
     $data = json_encode(array("access_token" => $_SESSION['access_token']));
